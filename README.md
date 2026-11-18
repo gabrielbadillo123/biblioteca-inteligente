@@ -291,9 +291,9 @@ Un sistema funcional, distribuido y seguro que permita gestionar tres biblioteca
 
 ## Autores
 
-- Gabriel
 - Marco
-- Fabian
+- Esteban
+- Gabriel
 
 ---
 
